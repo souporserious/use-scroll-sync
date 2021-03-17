@@ -1,0 +1,24 @@
+
+# Mac files
+.DS_Store
+
+# NPM
+.npm
+node_modules
+
+# Yarn
+.yarn-integrity
+yarn-debug.log*
+yarn-error.log*
+
+# ESLint
+.eslintcache
+
+# Gatsby
+.cache
+public
+
+# General
+*.log
+coverage
+dist
